@@ -30,7 +30,7 @@
         <repositories>
             <repository>
                 <id>springfeed</id>
-                <url>https://pkgs.dev.azure.com/sireesha145siri/Artifact/_packaging/springfeed/maven/v1</url>
+                <url>https://pkgs.dev.azure.com/sireesha2255siri/Artifact/_packaging/springfeed/maven/v1</url>
                 <releases>
                 <enabled>true</enabled>
                 </releases>
@@ -43,7 +43,7 @@
 	<distributionManagement>
 	    <repository>
                 <id>springfeed</id>
-                <url>https://pkgs.dev.azure.com/sireesha145siri/Artifact/_packaging/springfeed/maven/v1</url>
+                <url>https://pkgs.dev.azure.com/sireesha2255siri/Artifact/_packaging/springfeed/maven/v1</url>
                 <releases>
                 <enabled>true</enabled>
                 </releases>
